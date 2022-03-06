@@ -50,8 +50,6 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
         key parameter untuk intent adalah bebas, di sini kami merekomendasikan format
         terbaik yang biasa diimplementasikan.
         */
-
-
                 startActivity(moveWithDataIntent)
             }
 
