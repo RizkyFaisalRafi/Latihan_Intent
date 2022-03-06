@@ -1,0 +1,21 @@
+Codelab ini menitikberatkan pada implementasi intent untuk melakukan perpindahan
+dari Activity ke Activity lain, dengan atau tidak membawa data. Beberapa bagian dari
+codelab ini akan menjawab beberapa pertanyaan umum dalam pengembangan aplikasi Android sebagai berikut:
+
+1. Bagaimana berpindah dari satu Activity ke Activity lain?
+
+2. Bagaimana berpindah dari satu Activity ke Activity lain dengan membawa data?
+   Single value dari suatu variabel.
+   Obyek model dengan menggunakan Parcelable.
+
+3. Menjalankan komponen di aplikasi lain untuk keperluan membuka browser atau
+   melakukan pemanggilan melalui aplikasi telepon bawaan?
+
+4. Mengirimkan hasil nilai balik melalui Intent.
+
+ALUR LATIHAN:
+1. Berpindah antar Activity menggunakan Explicit Intent.
+2. Mengirim data pada Intent menggunakan putExtra.
+3. Mengirim banyak data pada Intent menggunakan Parcelable.
+4. Berpindah antar aplikasi menggunakan Implicit Intent.
+5. Mendapatkan hasil dari Activity tujuan menggunakan registerForActivityResult.
