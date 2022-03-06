@@ -14,5 +14,5 @@
     <string name="choose">Pilih</string>
     <string name="data_received">Data Diterima</string>
     <string name="object_received">Object Diterima</string>
-    <string name="this_is_moveactivity">Ini MoveActivity</string>
+    <string name="this_is_moveactivity">Ini Move Activity</string>
 </resources>

@@ -10,7 +10,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.PRAKTIK2">
         <activity
-            android:name=".MoveActivity"
+            android:name=".mengirimDataPadaIntent.MoveWithDataActivity"
+            android:exported="false" />
+        <activity
+            android:name=".explicitIntent.MoveActivity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
