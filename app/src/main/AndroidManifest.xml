@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.PRAKTIK2">
         <activity
+            android:name=".intentDenganResultActivity.MoveForResultActivity"
+            android:exported="false" />
+        <activity
+            android:name=".mengirimdatadenganparcelable.MoveWithObjectActivity"
+            android:exported="false" />
+        <activity
             android:name=".mengirimDataPadaIntent.MoveWithDataActivity"
             android:exported="false" />
         <activity
