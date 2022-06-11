@@ -16,3 +16,5 @@ Yang Meliputi:
 
 https://www.dicoding.com/academies/51/tutorials/1194#
 https://d17ivq9b7rppb3.cloudfront.net/original/academy/20201112153909e3bbb1092ae9540dad9ebd583a152067.gif
+
+![Screenshot (1795)](https://user-images.githubusercontent.com/87520408/173190616-97f325b4-a193-4a22-b06f-ec6fbf717f30.png)
